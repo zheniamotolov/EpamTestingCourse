@@ -1,2 +1,2 @@
 # EpamTestingCourse
-Task for epam classes
+Task for epam classes.
